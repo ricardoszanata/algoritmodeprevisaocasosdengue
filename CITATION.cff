@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Projeto apresentado para a disciplina aprendizado de máquina"
+authors:
+  - family-names: Oliveira
+    given-names: Alfredo Alexandre
+  - family-names: da Silva Zanata
+    given-names: Ricardo
+title: "Use of machine learning algorithms in predicting dengue cases"
+version: 1.0.0
+date-released: 2024-10-19

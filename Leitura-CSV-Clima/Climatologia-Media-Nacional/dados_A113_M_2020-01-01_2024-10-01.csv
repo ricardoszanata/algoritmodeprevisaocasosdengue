@@ -1,0 +1,70 @@
+Nome: APUI
+Codigo Estacao: A113
+Latitude: -7.20555555
+Longitude: -59.8886111
+Altitude: 156.97
+Situacao: Operante
+Data Inicial: 2020-01-01
+Data Final: 2024-10-01
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);TEMPERATURA MEDIA, MENSAL (AUT)(°C);
+2020-01-31;4;null;null;
+2020-02-29;null;null;null;
+2020-03-31;null;null;null;
+2020-04-30;2;null;null;
+2020-05-31;1;null;null;
+2020-06-30;null;null;null;
+2020-07-31;null;null;null;
+2020-08-31;null;null;null;
+2020-09-30;null;null;null;
+2020-10-31;null;null;null;
+2020-11-30;null;null;null;
+2020-12-31;null;null;null;
+2021-01-31;null;null;null;
+2021-02-28;null;null;null;
+2021-03-31;null;null;null;
+2021-04-30;null;null;null;
+2021-05-31;null;null;null;
+2021-06-30;null;null;null;
+2021-07-31;null;null;null;
+2021-08-31;null;null;null;
+2021-09-30;null;null;null;
+2021-10-31;null;null;null;
+2021-11-30;null;null;null;
+2021-12-31;null;null;null;
+2022-01-31;null;null;null;
+2022-02-28;null;null;null;
+2022-03-31;null;null;null;
+2022-04-30;null;null;null;
+2022-05-31;null;null;null;
+2022-06-30;null;null;null;
+2022-07-31;2;null;25,8;
+2022-08-31;10;109,2;25;
+2022-09-30;9;46,8;26;
+2022-10-31;17;256,4;25,4;
+2022-11-30;16;209,6;25,1;
+2022-12-31;27;588,2;24,2;
+2023-01-31;28;468,4;23,8;
+2023-02-28;26;299,2;24,3;
+2023-03-31;2;null;null;
+2023-04-30;null;null;null;
+2023-05-31;null;null;null;
+2023-06-30;null;null;null;
+2023-07-31;8;null;null;
+2023-08-31;4;null;null;
+2023-09-30;3;null;null;
+2023-10-31;3;null;null;
+2023-11-30;8;null;null;
+2023-12-31;26;388,8;25,1;
+2024-01-31;18;null;25;
+2024-02-29;null;null;null;
+2024-03-31;null;null;null;
+2024-04-30;null;null;null;
+2024-05-31;null;null;null;
+2024-06-30;null;null;null;
+2024-07-31;null;null;null;
+2024-08-31;4;28,6;26,5;
+2024-09-30;13;94,6;27,3;
+2024-10-31;1;null;null;
+

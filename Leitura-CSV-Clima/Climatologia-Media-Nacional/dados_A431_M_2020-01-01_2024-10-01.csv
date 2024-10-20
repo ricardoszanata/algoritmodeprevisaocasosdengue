@@ -1,0 +1,70 @@
+Nome: CONDE
+Codigo Estacao: A431
+Latitude: -12.03583333
+Longitude: -37.68388888
+Altitude: 31.9
+Situacao: Operante
+Data Inicial: 2020-01-01
+Data Final: 2024-10-01
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);TEMPERATURA MEDIA, MENSAL (AUT)(°C);
+2020-01-31;11;86,2;27;
+2020-02-29;10;40,6;27,6;
+2020-03-31;13;218,8;27,4;
+2020-04-30;16;238;26,7;
+2020-05-31;23;503;25,4;
+2020-06-30;29;182,4;25;
+2020-07-31;26;241,8;24;
+2020-08-31;25;96,2;23,9;
+2020-09-30;20;121,2;24,4;
+2020-10-31;8;72,2;25,8;
+2020-11-30;17;58,4;26,1;
+2020-12-31;4;28,2;26,5;
+2021-01-31;15;57,8;26,6;
+2021-02-28;3;null;27,2;
+2021-03-31;null;null;null;
+2021-04-30;null;null;null;
+2021-05-31;null;null;null;
+2021-06-30;null;null;null;
+2021-07-31;null;null;null;
+2021-08-31;null;null;null;
+2021-09-30;null;null;null;
+2021-10-31;null;null;null;
+2021-11-30;3;null;null;
+2021-12-31;11;98,4;26,3;
+2022-01-31;12;117,6;26,4;
+2022-02-28;null;null;null;
+2022-03-31;null;null;null;
+2022-04-30;null;null;null;
+2022-05-31;null;null;null;
+2022-06-30;null;null;null;
+2022-07-31;null;null;null;
+2022-08-31;null;null;null;
+2022-09-30;null;null;null;
+2022-10-31;null;null;null;
+2022-11-30;null;null;null;
+2022-12-31;null;null;null;
+2023-01-31;null;null;null;
+2023-02-28;null;null;null;
+2023-03-31;null;null;null;
+2023-04-30;null;null;null;
+2023-05-31;null;null;null;
+2023-06-30;null;null;null;
+2023-07-31;null;null;null;
+2023-08-31;null;null;null;
+2023-09-30;null;null;null;
+2023-10-31;1;null;null;
+2023-11-30;6;78,4;26,7;
+2023-12-31;11;187,4;26,9;
+2024-01-31;6;48,8;27,5;
+2024-02-29;19;85,6;27,7;
+2024-03-31;18;96;28,5;
+2024-04-30;24;213,2;27,3;
+2024-05-31;23;262,2;26;
+2024-06-30;21;163,2;25,2;
+2024-07-31;14;80,6;24,8;
+2024-08-31;21;132,8;24,5;
+2024-09-30;12;36,8;24,9;
+2024-10-31;3;null;null;
+

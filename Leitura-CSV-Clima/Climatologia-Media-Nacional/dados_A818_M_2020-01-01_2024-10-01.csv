@@ -1,0 +1,70 @@
+Nome: IVAI
+Codigo Estacao: A818
+Latitude: -25.01083333
+Longitude: -50.85388888
+Altitude: 803.58
+Situacao: Operante
+Data Inicial: 2020-01-01
+Data Final: 2024-10-01
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);TEMPERATURA MEDIA, MENSAL (AUT)(°C);
+2020-01-31;15;119,8;22,2;
+2020-02-29;11;124,2;22,2;
+2020-03-31;7;22,4;21,4;
+2020-04-30;11;null;19,1;
+2020-05-31;8;null;15,5;
+2020-06-30;12;150,2;16,6;
+2020-07-31;13;null;15,8;
+2020-08-31;14;195,4;15,8;
+2020-09-30;5;31,8;20,5;
+2020-10-31;10;80,8;20,8;
+2020-11-30;12;58,2;20,7;
+2020-12-31;18;150,6;21,8;
+2021-01-31;23;295,2;22;
+2021-02-28;9;14;21,8;
+2021-03-31;17;97;21,9;
+2021-04-30;7;15;18,4;
+2021-05-31;17;85,6;16,1;
+2021-06-30;18;69,8;14,9;
+2021-07-31;null;null;13,9;
+2021-08-31;null;null;16,9;
+2021-09-30;null;null;20;
+2021-10-31;null;null;18,4;
+2021-11-30;null;null;21,3;
+2021-12-31;null;null;22,4;
+2022-01-31;null;null;22,5;
+2022-02-28;null;null;22,9;
+2022-03-31;null;null;21,8;
+2022-04-30;null;null;18,7;
+2022-05-31;null;null;15,4;
+2022-06-30;null;null;14,7;
+2022-07-31;null;null;16,9;
+2022-08-31;null;null;15,7;
+2022-09-30;null;null;null;
+2022-10-31;null;null;null;
+2022-11-30;null;null;null;
+2022-12-31;null;null;null;
+2023-01-31;null;null;null;
+2023-02-28;null;null;null;
+2023-03-31;null;null;null;
+2023-04-30;null;null;null;
+2023-05-31;13;42,2;16,7;
+2023-06-30;20;94;14,6;
+2023-07-31;13;124;15,9;
+2023-08-31;11;null;15,9;
+2023-09-30;13;115,4;20,6;
+2023-10-31;6;null;null;
+2023-11-30;null;null;null;
+2023-12-31;null;null;null;
+2024-01-31;null;null;null;
+2024-02-29;null;null;null;
+2024-03-31;null;null;null;
+2024-04-30;null;null;null;
+2024-05-31;null;null;null;
+2024-06-30;null;null;null;
+2024-07-31;null;null;null;
+2024-08-31;3;null;17,3;
+2024-09-30;6;110,2;21,1;
+2024-10-31;1;null;null;
+

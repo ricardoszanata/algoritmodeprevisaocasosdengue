@@ -1,0 +1,70 @@
+Nome: PARANAIBA
+Codigo Estacao: A710
+Latitude: -19.69555555
+Longitude: -51.18166666
+Altitude: 408.06
+Situacao: Operante
+Data Inicial: 2020-01-01
+Data Final: 2024-10-01
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);TEMPERATURA MEDIA, MENSAL (AUT)(°C);
+2020-01-31;9;null;26,7;
+2020-02-29;null;null;null;
+2020-03-31;null;null;null;
+2020-04-30;null;null;null;
+2020-05-31;null;null;null;
+2020-06-30;null;null;null;
+2020-07-31;null;null;null;
+2020-08-31;1;null;23,6;
+2020-09-30;null;null;null;
+2020-10-31;null;null;null;
+2020-11-30;null;null;null;
+2020-12-31;null;null;null;
+2021-01-31;null;null;null;
+2021-02-28;null;null;null;
+2021-03-31;null;null;null;
+2021-04-30;null;null;null;
+2021-05-31;null;null;null;
+2021-06-30;null;null;null;
+2021-07-31;null;null;null;
+2021-08-31;null;null;null;
+2021-09-30;null;null;null;
+2021-10-31;4;null;null;
+2021-11-30;5;null;27,3;
+2021-12-31;2;null;null;
+2022-01-31;null;null;null;
+2022-02-28;null;null;null;
+2022-03-31;null;null;null;
+2022-04-30;null;null;null;
+2022-05-31;3;24,4;20,6;
+2022-06-30;3;7,6;20,7;
+2022-07-31;0;0;22,7;
+2022-08-31;1;7,6;22,5;
+2022-09-30;9;62,8;24,8;
+2022-10-31;6;60;25,7;
+2022-11-30;5;21,6;25,4;
+2022-12-31;18;310,4;25,8;
+2023-01-31;17;285,6;24,9;
+2023-02-28;19;224;25,7;
+2023-03-31;14;67,6;25,7;
+2023-04-30;11;118,8;24,4;
+2023-05-31;1;17,2;21,3;
+2023-06-30;4;24,2;19;
+2023-07-31;1;10,8;21,7;
+2023-08-31;7;5,4;24,3;
+2023-09-30;7;21,6;28,3;
+2023-10-31;17;122,4;28,1;
+2023-11-30;10;103,8;27,7;
+2023-12-31;9;53,4;28,6;
+2024-01-31;4;null;27,1;
+2024-02-29;null;null;27;
+2024-03-31;null;null;27;
+2024-04-30;null;null;26,1;
+2024-05-31;null;null;23,7;
+2024-06-30;0;0;23,3;
+2024-07-31;1;,6;21,8;
+2024-08-31;1;2;22,8;
+2024-09-30;2;4,2;28,2;
+2024-10-31;1;null;null;
+

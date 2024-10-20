@@ -1,0 +1,70 @@
+Nome: SETE QUEDAS
+Codigo Estacao: A751
+Latitude: -23.96694443
+Longitude: -55.02416666
+Altitude: 398.4
+Situacao: Operante
+Data Inicial: 2020-01-01
+Data Final: 2024-10-01
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);TEMPERATURA MEDIA, MENSAL (AUT)(°C);
+2020-01-31;null;null;25,2;
+2020-02-29;null;null;25,3;
+2020-03-31;null;null;25,9;
+2020-04-30;null;null;21,8;
+2020-05-31;null;null;18,4;
+2020-06-30;null;null;19,7;
+2020-07-31;null;null;18,8;
+2020-08-31;null;null;20,9;
+2020-09-30;null;null;24;
+2020-10-31;null;null;null;
+2020-11-30;null;null;null;
+2020-12-31;null;null;null;
+2021-01-31;null;null;null;
+2021-02-28;null;null;null;
+2021-03-31;null;null;null;
+2021-04-30;null;null;null;
+2021-05-31;null;null;null;
+2021-06-30;null;null;null;
+2021-07-31;null;null;null;
+2021-08-31;null;null;null;
+2021-09-30;null;null;null;
+2021-10-31;null;null;null;
+2021-11-30;null;null;null;
+2021-12-31;null;null;null;
+2022-01-31;null;null;null;
+2022-02-28;null;null;null;
+2022-03-31;null;null;null;
+2022-04-30;null;null;null;
+2022-05-31;null;null;null;
+2022-06-30;null;null;null;
+2022-07-31;null;null;null;
+2022-08-31;null;null;null;
+2022-09-30;null;null;null;
+2022-10-31;3;null;null;
+2022-11-30;6;126,8;22,1;
+2022-12-31;11;46,6;25,3;
+2023-01-31;11;168;24,8;
+2023-02-28;17;337,2;23,3;
+2023-03-31;15;144,2;24,3;
+2023-04-30;10;148,4;21,6;
+2023-05-31;11;96;19,8;
+2023-06-30;10;53,2;17,3;
+2023-07-31;9;67,2;18,8;
+2023-08-31;7;88,6;20,8;
+2023-09-30;8;68;23,4;
+2023-10-31;14;209,2;24,2;
+2023-11-30;14;224,6;24,6;
+2023-12-31;16;135,2;25,6;
+2024-01-31;11;195,4;25,6;
+2024-02-29;8;null;26,1;
+2024-03-31;null;null;26,6;
+2024-04-30;null;null;24,5;
+2024-05-31;4;null;21,1;
+2024-06-30;5;4;21,1;
+2024-07-31;10;74,8;16,9;
+2024-08-31;5;37,8;19,7;
+2024-09-30;5;73;23,1;
+2024-10-31;1;null;null;
+
